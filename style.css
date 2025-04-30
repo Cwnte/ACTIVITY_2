@@ -1,0 +1,78 @@
+.picture2 {
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+.helloH {
+    margin-left: 60px;
+    color: darkred;
+}
+
+.helloP {
+    margin-left: -110px;
+    font-weight:400 ;
+}
+
+.mySkills {
+    margin-left: 530px ;
+    color: darkred;
+}
+
+.dnd {
+    margin-left: 510px;
+    font-weight: 700;
+    color: darkred;
+}
+
+.dndp {
+    margin-left: 510px;
+}
+
+.eye1 {
+    margin-left: 290px;
+    margin-top: -180px;
+    
+}
+
+.eye2 {
+    margin-left: 890px;
+    margin-top: -70px;
+}
+
+.get {
+    margin-left: 500px;
+}
+
+.love {
+    margin-left: 470px;
+    color: darkred;
+}
+
+.coke {
+    margin-left: 250px;
+}
+
+button {
+    background-color: darkred;
+    width: 100px;
+    height: 36px;
+    border-radius: 5px;
+    margin-left: 530px;
+    border: none;
+}
+
+footer {
+    background-color: darkred;
+    height: 50px;
+    width: 1250px;
+    padding: 40px 0;
+}
+
+.footer-container {
+    gap: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: -100px;
+
+}
+
